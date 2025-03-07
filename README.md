@@ -2,7 +2,7 @@
 <h3 align="center">A self-educated ethical hacker.</h3>
 
 
-- ⚡ Creating **recon tools 🖥️🔥**
+- ⚡ Creating **automation scripts 🖥️🔥**
 
 - 🐍 Python & Bash **Enthusiast**
 
