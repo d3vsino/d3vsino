@@ -20,5 +20,5 @@ Languages:
 
 Frameworks & Tools: 
  
-![Django](https://img.shields.io/badge/framework-Django-092E20?logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
