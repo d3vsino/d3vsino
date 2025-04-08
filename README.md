@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
+<h1 align="center">Hi, I'm Devsino</h1>
 
 # 💫 About Me:
 I'm a high school student who is passionate building apps using Django and geeking out over low-level code and operating systems.
 
-## 🚀 What I'm Up To
+## 🚀 What I Love to Do:
 
 - 👨‍💻 Exploring the world of Unix and how it works
 - 💻 Building Django applications
