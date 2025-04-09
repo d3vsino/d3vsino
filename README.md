@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Devsino</h1>
 
 # 💫 About Me:
-I'm a high school student who is passionate building apps using Django and geeking out over low-level code and operating systems.
+I'm a high school student who is passionate about building apps using Django and geeking out over low-level code and operating systems.
 
 ## 🚀 What Am I Doing:
 
