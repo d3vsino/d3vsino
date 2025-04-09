@@ -3,7 +3,7 @@
 # 💫 About Me:
 I'm a high school student who is passionate building apps using Django and geeking out over low-level code and operating systems.
 
-## 🚀 What I Love to Do:
+## 🚀 What Am I Doing:
 
 - 👨‍💻 Exploring the world of Unix and how it works
 - 💻 Building Django applications
