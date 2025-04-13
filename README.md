@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Devsino</h1>
 
 # 💫 About Me:
-I'm a high school student who is passionate about building apps using Django and geeking out over low-level code and operating systems.
+
+I'm a high school student who is passionate about backend development and building apps using Django and React, and im obsessed with Linux and open source projects.
 
 ## 🚀 What Am I Doing:
 
 - 👨‍💻 Exploring the world of Unix and how it works
-- 💻 Building Django applications
+- 💻 Building Django & React applications
 - 🐘 Learning PostgreSQL
 
 # 💻 Tech Stack:
