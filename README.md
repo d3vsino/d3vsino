@@ -7,8 +7,8 @@ I'm a high school student who is passionate about backend development and buildi
 ## 🚀 What Am I Doing:
 
 - 👨‍💻 Exploring the world of Unix and how it works
-- 💻 Building Django & React applications
-- 🐘 Learning PostgreSQL
+- 💻 Building Django & Vue applications
+- 🧑‍🎓 Learning New Stuff Everyday
 
 # 💻 Tech Stack:
 
